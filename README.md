@@ -10,9 +10,7 @@
 - 👯 I’m trying to learn Backend with NodeJS and Express as well.
 - 🥅 2021 Goals: Become a full-fledge Front End Developer.
 - ⚡ Fun fact: I love Graphic Designing but not as a job.
-
-<br />
----
+<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -23,6 +21,8 @@
 
 <br />
 <br />
+
+---
 
 ### Connect with me:
 
