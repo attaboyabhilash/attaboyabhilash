@@ -11,6 +11,16 @@
 - 🥅 2021 Goals: Become a full-fledge Front End Developer.
 - ⚡ Fun fact: I love Graphic Designing but not as a job.
 
+<br />
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="attaboyabhilash's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=attaboyabhilash&show_icons=true&hide_border=true" />
+
+</details>
+
 
 ### Connect with me:
 
@@ -40,12 +50,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="attaboyabhilash's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=attaboyabhilash&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://attaboyabhilash.com
 [twitter]: https://twitter.com/attaboyabhilash
