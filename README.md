@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything in FrontEnd and BackEnd 🤣.
 - 👯 I’m trying to learn Backend with NodeJS and Express as well.
-- 🥅 2021 Goals: Become a full-fledge Front End Developer.
+- 🥅 2021 Goals: Become a full-fledge Full Stack MERN Developer.
 - ⚡ Fun fact: I love Graphic Designing but not as a job.
 <br/>
 
